@@ -1,0 +1,49 @@
+.label {
+  color: teal;
+  font-size: 24px;
+  font-weight: 700;
+  margin-right: 10px;
+}
+
+.name {
+  font-size: 32px;
+  font-weight: 900;
+  text-align: center;
+  margin: 10px;
+  color: #2a2828;
+}
+
+.description {
+  display: inline-block;
+
+  justify-content: center;
+  text-align: center;
+}
+
+.profile {
+  width: 300px;
+  text-align: center;
+  outline: 1px solid grey;
+  padding: 20px;
+  border-radius: 5px;
+  margin: auto;
+}
+
+.tag {
+  text-align: center;
+  color: grey;
+  font-size: 18px;
+}
+.location {
+  text-align: center;
+  font-weight: 500;
+}
+
+li {
+  list-style: none;
+}
+
+.avatar {
+  width: 200px;
+}
+
