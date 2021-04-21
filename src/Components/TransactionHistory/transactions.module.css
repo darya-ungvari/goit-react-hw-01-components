@@ -1,0 +1,27 @@
+.transactionHistory {
+  margin: 0 auto;
+  padding: 30px;
+  background-color: teal;
+}
+
+.td {
+  width: 70px;
+  height: 35px;
+  background-color: #fff;
+  padding: 10px;
+}
+
+.tr {
+  background-color: rgb(231, 220, 220);
+}
+
+.titles {
+  padding: 20px;
+  color: honeydew;
+  background-color: rgb(231, 78, 40);
+}
+
+.invoiceTd {
+  color: white;
+  padding: 20px;
+}
