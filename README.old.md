@@ -50,7 +50,7 @@ DEPLOY
 npm run build
 
 in package.json add: "homepage":
-"https://darya-ungvari.goit-react-hw-01-components",
+"https://darya-ungvari.github.io/goit-react-hw-01-components",
 
 npm run build
 
