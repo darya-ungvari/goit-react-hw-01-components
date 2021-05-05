@@ -11,12 +11,15 @@ function App() {
   return (
     <div className="App">
       <Profile 
-      name={user.name}x
-      tag={user.tag}
-      location={user.location}
-      avatar={user.avatar}
-      stats={user.stats}></Profile>
-      <Statistics title="Upload stats" stats={stats}></Statistics>
+        name={user.name}
+        tag={user.tag}
+        location={user.location}
+        avatar={user.avatar}
+        stats={user.stats}>
+      </Profile>
+      <Statistics 
+        title="Upload stats" stats={stats}>
+      </Statistics>
       <FriendList friends={friends} />
       <TransactionHistory transactions={transactions}/>
     </div>
